@@ -1,5 +1,5 @@
 * {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     box-sizing: border-box;
   }
   
@@ -35,7 +35,7 @@
   
   .btn:hover,
   .btn:focus-visible {
-    background: hsl(200, 100%, 50%, 0.2);
+    background: hsl(200, 100%, 50%, 0.5);
   }
   
   .btn.btn-danger {
@@ -46,7 +46,7 @@
   
   .btn.btn-danger:hover,
   .btn.btn-danger:focus-visible {
-    background: hsl(0, 100%, 40%, 0.2);
+    background: hsla(0, 100%, 79%, 0.2);
   }
   
   .new-item-form input {
